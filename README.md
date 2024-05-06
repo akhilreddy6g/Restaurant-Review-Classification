@@ -1,2 +1,4 @@
 # Restaurant-Review-Classification
 Numerous restaurants fight for the best quality for clients in the increasingly competitive restaurant sector. A restaurant is a business that demands more attention to customer care through continually enhancing customer service. Users may leave reviews and ratings of companies and services, or just comment on other reviews. From one standpoint, bad (negative) reviews may influence how potential consumers make purchasing decisions. Sentiment analysis is a technique for determining the emotional content of a text that may be used to evaluate product/service reviews.
+
+Detailed Report at <a href = "https://www.researchgate.net/profile/Vijayalakshmi-Kakulapati/publication/357083436_Categorization_and_Analysis_of_Restaurant_Reviews/links/61bb18124b318a6970e56a7f/Categorization-and-Analysis-of-Restaurant-Reviews.pdf"> Categorization and Analysis of Restaurant Reviews </a>
